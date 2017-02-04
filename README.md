@@ -10,9 +10,11 @@ February 1st, 2017
 Drayton O'Steen
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+Several highlighted topics from Lesson 3: Code Versioning
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. the History of Git programing
+2. What Git is generally
+3. How to get use Git programing
+4. Cloning Git repositories
+5. What Github is and how to use it
